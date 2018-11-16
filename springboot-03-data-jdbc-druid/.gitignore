@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+### git user template template
+### Example user template
+
+# IntelliJ project files
+.mvn
+target
+.gitignore
+mvnw
+mvnw.cmd
+.idea
+*.iml
+out
+gen
+
